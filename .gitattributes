@@ -1,0 +1,9 @@
+# Windows batch files must keep CRLF line endings
+*.cmd   text eol=crlf
+*.cs    text
+*.md    text
+*.ini   text
+*.py    text
+*.png   binary
+*.ico   binary
+*.wav   binary
